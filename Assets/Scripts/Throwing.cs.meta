@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b11024b1d57def4f800ee759598384f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - attackpoint: {instanceID: 0}
+  - objectToThrow: {fileID: 6157121164476174927, guid: 29dd76f89ccaab7419fa0520986aeae3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
